@@ -8,6 +8,7 @@ public class Wall : MonoBehaviour {
 	public AudioClip chopSound1;
 	public AudioClip chopSound2;
 
+
 	private SpriteRenderer spriteRenderer;
 
 	// Use this for initialization
